@@ -1,3 +1,3 @@
-# 3F8
+# Statistical Inference
 
-Code used to answer coursework for module 3F8 on statistical inference
+Code used to answer coursework for module on statistical inference
